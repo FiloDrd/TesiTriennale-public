@@ -1,0 +1,5 @@
+/Chiavi
+/progetto/venv
+/progetto/data/*.zip
+/progetto/delta_tables
+/progetto/.env
